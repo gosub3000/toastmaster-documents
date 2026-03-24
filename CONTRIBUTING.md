@@ -7,7 +7,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 
 > And if you like the project, but just don't have time to contribute, that's fine. There are other easy ways to support the project and show your appreciation, which we would also be very happy about:
 > - Star the project
-> - Tweet about it
+> - Share this project on social media
 > - Refer this project in your project's readme
 > - Mention the project at local meetups and tell your friends/colleagues
 
@@ -44,7 +44,7 @@ If you then still feel the need to ask a question and need clarification, we rec
 
 - Open an [Issue](https://github.com/gosub3000/toastmaster-documents/issues/new).
 - Provide as much context as you can about what you're running into.
-- Provide project and platform versions (nodejs, npm, etc), depending on what seems relevant.
+- Provide project and platform versions, depending on what seems relevant.
 
 We will then take care of the issue as soon as possible.
 
@@ -78,11 +78,10 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 - Make sure that you are using the latest version.
 - Determine if your bug is really a bug and not an error on your side e.g. using incompatible environment components/versions (Make sure that you have read the [documentation](). If you are looking for support, you might want to check [this section](#i-have-a-question)).
 - To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [bug tracker](https://github.com/gosub3000/toastmaster-documents/issues?q=label%3Abug).
-- Also make sure to search the internet (including Stack Overflow) to see if users outside of the GitHub community have discussed the issue.
+- Also make sure to search the internet to see if users outside of the GitHub community have discussed the issue.
 - Collect information about the bug:
-  - Stack trace (Traceback)
   - OS, Platform and Version (Windows, Linux, macOS, x86, ARM)
-  - Version of the interpreter, compiler, SDK, runtime environment, package manager, depending on what seems relevant.
+  - Version of the editor, viewer, runtime environment, etc. depending on what seems relevant.
   - Possibly your input and the output
   - Can you reliably reproduce the issue? And can you also reproduce it with older versions?
 
@@ -98,6 +97,7 @@ We use GitHub issues to track bugs and errors. If you run into an issue with the
 - Explain the behavior you would expect and the actual behavior.
 - Please provide as much context as possible and describe the *reproduction steps* that someone else can follow to recreate the issue on their own. This usually includes your code. For good bug reports you should isolate the problem and create a reduced test case.
 - Provide the information you collected in the previous section.
+- Providing screen captures and other visual information helps greatly in understanding the issue.
 
 Once it's filed:
 
@@ -133,25 +133,25 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/gosub3
 
 <!-- You might want to create an issue template for enhancement suggestions that can be used as a guide and that defines the structure of the information to be included. If you do so, reference it here in the description. -->
 
-### Your First Code Contribution
+<!-- ### Your First Code Contribution -->
 <!-- TODO
 include Setup of env, IDE and typical getting started instructions?
 
 -->
 
-### Improving The Documentation
+<!-- ### Improving The Documentation -->
 <!-- TODO
 Updating, improving and correcting the documentation
 
 -->
 
-## Styleguides
-### Commit Messages
+<!--## Styleguides
+### Commit Messages -->
 <!-- TODO
 
 -->
 
-## Join The Project Team
+<!-- ## Join The Project Team -->
 <!-- TODO -->
 
 <!-- omit in toc -->
