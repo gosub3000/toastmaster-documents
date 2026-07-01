@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 592" width="100%" height="100%">
+  <defs>
+    <style>
+      .postcard-bg { fill: #fbf9f3; }
+      .border-outer { fill: none; stroke: #2d2d2b; stroke-width: 2.5; }
+      .border-inner { fill: none; stroke: #2d2d2b; stroke-width: 0.75; stroke-dasharray: 6, 4; }
+      .divider { stroke: #4a4a46; stroke-width: 2; stroke-dasharray: 6, 6; }
+      .stamp-back { fill: none; stroke: #8a8a82; stroke-width: 1.25; stroke-dasharray: 4, 3; }
+      .address-line { stroke: #6b6b65; stroke-width: 1.25; stroke-linecap: round; }
+      .guideline-msg { stroke: #e3dec9; stroke-width: 1; stroke-dasharray: 4, 4; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="840" height="592" class="postcard-bg" />
+  
+  <rect x="24" y="24" width="792" height="544" class="border-outer" />
+  <rect x="32" y="32" width="776" height="528" class="border-inner" />
+
+  <line x1="420" y1="56" x2="420" y2="536" class="divider" />
+
+  <g id="message-guidelines">
+    <line x1="64" y1="120" x2="388" y2="120" class="guideline-msg" />
+    <line x1="64" y1="165" x2="388" y2="165" class="guideline-msg" />
+    <line x1="64" y1="210" x2="388" y2="210" class="guideline-msg" />
+    <line x1="64" y1="255" x2="388" y2="255" class="guideline-msg" />
+    <line x1="64" y1="300" x2="388" y2="300" class="guideline-msg" />
+    <line x1="64" y1="345" x2="388" y2="345" class="guideline-msg" />
+    <line x1="64" y1="390" x2="388" y2="390" class="guideline-msg" />
+    <line x1="64" y1="435" x2="388" y2="435" class="guideline-msg" />
+    <line x1="64" y1="480" x2="388" y2="480" class="guideline-msg" />
+  </g>
+
+  <g id="address-framework">
+    <rect x="676" y="56" width="108" height="130" class="stamp-back" />
+    
+    <g id="address-lines-group" transform="translate(456, 260)">
+      <line x1="0" y1="0" x2="328" y2="0" class="address-line" />
+      <line x1="0" y1="55" x2="328" y2="55" class="address-line" />
+      <line x1="0" y1="110" x2="328" y2="110" class="address-line" />
+      <line x1="0" y1="165" x2="328" y2="165" class="address-line" />
+      <line x1="0" y1="220" x2="328" y2="220" class="address-line" />
+    </g>
+  </g>
+</svg>
