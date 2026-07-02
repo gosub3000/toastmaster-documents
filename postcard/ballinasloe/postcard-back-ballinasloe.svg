@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 603.77954688 428.03150976"
+   width="21.3cm"
+   height="15.1cm"
+   version="1.1"
+   id="svg178"
+   sodipodi:docname="postcard-back-ballinasloe.svg"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="postcard-back-ballinasloe.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs182"><style
+       id="style506">
+      .postcard-bg { fill: #fbf9f3; }
+      .border-outer { fill: none; stroke: #2d2d2b; stroke-width: 2.5; }
+      .border-inner { fill: none; stroke: #2d2d2b; stroke-width: 0.75; stroke-dasharray: 6, 4; }
+      .divider { stroke: #4a4a46; stroke-width: 2; stroke-dasharray: 6, 6; }
+      .stamp-back { fill: none; stroke: #8a8a82; stroke-width: 1.25; stroke-dasharray: 4, 3; }
+      .address-line { stroke: #6b6b65; stroke-width: 1.25; stroke-linecap: round; }
+      .guideline-msg { stroke: #e3dec9; stroke-width: 1; stroke-dasharray: 4, 4; }
+    </style><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath637"><path
+         d="M 10.223088,10.400119 H 829.57035 V 581.5208 H 10.223088 Z"
+         fill="#ffffff"
+         fill-opacity="0"
+         stroke="#e61937"
+         stroke-opacity="1"
+         stroke-width="1.34561"
+         stroke-linecap="butt"
+         stroke-linejoin="round"
+         id="path639" /></clipPath></defs><sodipodi:namedview
+     id="namedview180"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="cm"
+     showgrid="false"
+     inkscape:zoom="1.0680161"
+     inkscape:cx="358.14067"
+     inkscape:cy="324.90147"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg178" /><g
+     id="g578"
+     transform="matrix(0.73690311,0,0,0.74945894,-7.5334257,-7.7944624)"><rect
+       x="0"
+       y="0"
+       width="840"
+       height="592"
+       class="postcard-bg"
+       id="rect510"
+       clip-path="url(#clipPath637)" /><rect
+       x="24"
+       y="24"
+       width="792"
+       height="544"
+       class="border-outer"
+       id="rect512" /><rect
+       x="32"
+       y="32"
+       width="776"
+       height="528"
+       class="border-inner"
+       id="rect514" /><line
+       x1="420.18655"
+       y1="81.159309"
+       x2="420.18655"
+       y2="536"
+       class="divider"
+       id="line516" /><g
+       id="message-guidelines"><line
+         x1="64"
+         y1="120"
+         x2="388"
+         y2="120"
+         class="guideline-msg"
+         id="line518" /><line
+         x1="64"
+         y1="165"
+         x2="388"
+         y2="165"
+         class="guideline-msg"
+         id="line520" /><line
+         x1="64"
+         y1="210"
+         x2="388"
+         y2="210"
+         class="guideline-msg"
+         id="line522" /><line
+         x1="64"
+         y1="255"
+         x2="388"
+         y2="255"
+         class="guideline-msg"
+         id="line524" /><line
+         x1="64"
+         y1="300"
+         x2="388"
+         y2="300"
+         class="guideline-msg"
+         id="line526" /><line
+         x1="64"
+         y1="345"
+         x2="388"
+         y2="345"
+         class="guideline-msg"
+         id="line528" /><line
+         x1="64"
+         y1="390"
+         x2="388"
+         y2="390"
+         class="guideline-msg"
+         id="line530" /><line
+         x1="64"
+         y1="435"
+         x2="388"
+         y2="435"
+         class="guideline-msg"
+         id="line532" /><line
+         x1="64"
+         y1="480"
+         x2="388"
+         y2="480"
+         class="guideline-msg"
+         id="line534" /></g><g
+       id="address-framework"><rect
+         x="676.03717"
+         y="56"
+         width="108"
+         height="130"
+         class="stamp-back"
+         id="rect537" /><g
+         id="address-lines-group"
+         transform="translate(456,260)"><line
+           x1="0"
+           y1="0"
+           x2="328"
+           y2="0"
+           class="address-line"
+           id="line539" /><line
+           x1="0"
+           y1="55"
+           x2="328"
+           y2="55"
+           class="address-line"
+           id="line541" /><line
+           x1="0"
+           y1="110"
+           x2="328"
+           y2="110"
+           class="address-line"
+           id="line543" /><line
+           x1="0"
+           y1="165"
+           x2="328"
+           y2="165"
+           class="address-line"
+           id="line545" /><line
+           x1="0"
+           y1="220"
+           x2="328"
+           y2="220"
+           class="address-line"
+           id="line547" /></g></g></g><g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="TYS"
+     style="fill:#e6e6e6"><text
+       xml:space="preserve"
+       style="font-size:72px;font-family:Gotham;-inkscape-font-specification:Gotham;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#ffffff;stroke-width:0.751177"
+       x="150.74634"
+       y="144.42776"
+       id="text1571"><tspan
+         sodipodi:role="line"
+         id="tspan1569"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72px;font-family:Gotham;-inkscape-font-specification:'Gotham weight=425';fill:#e6e6e6;stroke-width:0.751181"
+         x="150.74634"
+         y="144.42776">Tell</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72px;font-family:Gotham;-inkscape-font-specification:'Gotham weight=425';fill:#e6e6e6;stroke-width:0.751181"
+         x="150.74634"
+         y="234.42776"
+         id="tspan1573">Your</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72px;font-family:Gotham;-inkscape-font-specification:'Gotham weight=425';fill:#e6e6e6;stroke-width:0.751181"
+         x="150.74634"
+         y="324.42776"
+         id="tspan1575">Story</tspan></text></g><g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="qr"><image
+       width="77.694115"
+       height="77.694115"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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
+"
+       id="image783"
+       x="491.58618"
+       y="35.755249" /><text
+       xml:space="preserve"
+       style="font-size:13px;font-family:Gotham;-inkscape-font-specification:Gotham;text-align:center;text-anchor:middle;fill:#004165;stroke:#ffffff;stroke-width:0.751177"
+       x="530.49176"
+       y="126.401"
+       id="text843"><tspan
+         sodipodi:role="line"
+         id="tspan841"
+         style="font-size:13px;fill:#666666;stroke-width:0.751181"
+         x="530.49176"
+         y="126.401">Scan Me</tspan></text></g><g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Footer"><text
+       xml:space="preserve"
+       style="font-size:13px;font-family:Gotham;-inkscape-font-specification:Gotham;text-align:center;text-anchor:middle;fill:#666666;stroke:#ffffff;stroke-width:0.751177"
+       x="301.35675"
+       y="404.30304"
+       id="text1011"><tspan
+         sodipodi:role="line"
+         id="tspan1009"
+         style="stroke-width:0.751181"
+         x="301.35675"
+         y="404.30304">https://ballinasloe.toastmastersclubs.org/</tspan></text></g><g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Header"><text
+       xml:space="preserve"
+       style="font-size:13px;font-family:Gotham;-inkscape-font-specification:Gotham;text-align:center;text-anchor:middle;fill:#666666;stroke:#ffffff;stroke-width:0.751177"
+       x="302.22125"
+       y="30.109726"
+       id="text951"><tspan
+         sodipodi:role="line"
+         id="tspan949"
+         style="fill:#666666;stroke-width:0.751181"
+         x="302.22125"
+         y="30.109726">Ballinasloe Toastmasters</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#666666;stroke-width:0.751181"
+         x="302.22125"
+         y="46.359726"
+         id="tspan955">A Member of Toastmasters International</tspan></text></g><g
+     class="common Bleed"
+     id="Bleed"
+     style="display:none"><path
+       d="M 0,0 H 603.77955 V 428.03151 H 0 Z"
+       fill="#ffffff"
+       fill-opacity="0"
+       stroke="#e61937"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       id="path167" /></g><g
+     class="common Trim"
+     id="Trim"
+     style="display:none"><path
+       d="M 4.2519686,4.2519686 H 599.52758 V 423.77954 H 4.2519686 Z"
+       fill="#ffffff"
+       fill-opacity="0"
+       stroke="#1d44b8"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       id="path170" /></g><g
+     class="common Safety"
+     id="Safety"
+     style="display:none"><path
+       d="M 8.5039373,8.5039373 H 595.27561 V 419.52757 H 8.5039373 Z"
+       fill="#ffffff"
+       fill-opacity="0"
+       stroke="#19ff00"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       id="path173" /></g><style
+     type="text/css"
+     id="style176">.common {fill:none;stroke-width:2.8346457600000003} .bleed {stroke:#E61937;} .trim {stroke:#1D44B8;} .safe {stroke:#17E600;} .ornament {stroke: #000000;}  .cut {stroke: #0045AD} .fold {stroke: #CC21A1;}</style></svg>
