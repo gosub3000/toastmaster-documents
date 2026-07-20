@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 603.77954688 428.03150976"
+   width="21.3cm"
+   height="15.1cm"
+   version="1.1"
+   id="svg178"
+   sodipodi:docname="east-galway-postcard-back.svg"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="postcard-back-ballinasloe.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs182"><style
+       id="style506">
+      .postcard-bg { fill: #fbf9f3; }
+      .border-outer { fill: none; stroke: #2d2d2b; stroke-width: 2.5; }
+      .border-inner { fill: none; stroke: #2d2d2b; stroke-width: 0.75; stroke-dasharray: 6, 4; }
+      .divider { stroke: #4a4a46; stroke-width: 2; stroke-dasharray: 6, 6; }
+      .stamp-back { fill: none; stroke: #8a8a82; stroke-width: 1.25; stroke-dasharray: 4, 3; }
+      .address-line { stroke: #6b6b65; stroke-width: 1.25; stroke-linecap: round; }
+      .guideline-msg { stroke: #e3dec9; stroke-width: 1; stroke-dasharray: 4, 4; }
+    </style><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath637"><path
+         d="M 10.223088,10.400119 H 829.57035 V 581.5208 H 10.223088 Z"
+         fill="#ffffff"
+         fill-opacity="0"
+         stroke="#e61937"
+         stroke-opacity="1"
+         stroke-width="1.34561"
+         stroke-linecap="butt"
+         stroke-linejoin="round"
+         id="path639" /></clipPath></defs><sodipodi:namedview
+     id="namedview180"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="cm"
+     showgrid="false"
+     inkscape:zoom="1.0680161"
+     inkscape:cx="484.54326"
+     inkscape:cy="357.67251"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg178" /><g
+     id="g578"
+     transform="matrix(0.73690311,0,0,0.74945894,-7.5334257,-7.7944624)"><rect
+       x="0"
+       y="0"
+       width="840"
+       height="592"
+       class="postcard-bg"
+       id="rect510"
+       clip-path="url(#clipPath637)" /><rect
+       x="24"
+       y="24"
+       width="792"
+       height="544"
+       class="border-outer"
+       id="rect512" /><rect
+       x="32"
+       y="32"
+       width="776"
+       height="528"
+       class="border-inner"
+       id="rect514" /><line
+       x1="420.18655"
+       y1="81.159309"
+       x2="420.18655"
+       y2="536"
+       class="divider"
+       id="line516" /><g
+       id="message-guidelines"><line
+         x1="64"
+         y1="120"
+         x2="388"
+         y2="120"
+         class="guideline-msg"
+         id="line518" /><line
+         x1="64"
+         y1="165"
+         x2="388"
+         y2="165"
+         class="guideline-msg"
+         id="line520" /><line
+         x1="64"
+         y1="210"
+         x2="388"
+         y2="210"
+         class="guideline-msg"
+         id="line522" /><line
+         x1="64"
+         y1="255"
+         x2="388"
+         y2="255"
+         class="guideline-msg"
+         id="line524" /><line
+         x1="64"
+         y1="300"
+         x2="388"
+         y2="300"
+         class="guideline-msg"
+         id="line526" /><line
+         x1="64"
+         y1="345"
+         x2="388"
+         y2="345"
+         class="guideline-msg"
+         id="line528" /><line
+         x1="64"
+         y1="390"
+         x2="388"
+         y2="390"
+         class="guideline-msg"
+         id="line530" /><line
+         x1="64"
+         y1="435"
+         x2="388"
+         y2="435"
+         class="guideline-msg"
+         id="line532" /><line
+         x1="64"
+         y1="480"
+         x2="388"
+         y2="480"
+         class="guideline-msg"
+         id="line534" /></g><g
+       id="address-framework"><rect
+         x="676.03717"
+         y="56"
+         width="108"
+         height="130"
+         class="stamp-back"
+         id="rect537" /><g
+         id="address-lines-group"
+         transform="translate(456,260)"><line
+           x1="0"
+           y1="0"
+           x2="328"
+           y2="0"
+           class="address-line"
+           id="line539" /><line
+           x1="0"
+           y1="55"
+           x2="328"
+           y2="55"
+           class="address-line"
+           id="line541" /><line
+           x1="0"
+           y1="110"
+           x2="328"
+           y2="110"
+           class="address-line"
+           id="line543" /><line
+           x1="0"
+           y1="165"
+           x2="328"
+           y2="165"
+           class="address-line"
+           id="line545" /><line
+           x1="0"
+           y1="220"
+           x2="328"
+           y2="220"
+           class="address-line"
+           id="line547" /></g></g></g><g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="TYS"
+     style="fill:#e6e6e6"><text
+       xml:space="preserve"
+       style="font-size:72px;font-family:Gotham;-inkscape-font-specification:Gotham;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#ffffff;stroke-width:0.751177"
+       x="150.74634"
+       y="144.42776"
+       id="text1571"><tspan
+         sodipodi:role="line"
+         id="tspan1569"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72px;font-family:Gotham;-inkscape-font-specification:'Gotham weight=425';fill:#e6e6e6;stroke-width:0.751181"
+         x="150.74634"
+         y="144.42776">Tell</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72px;font-family:Gotham;-inkscape-font-specification:'Gotham weight=425';fill:#e6e6e6;stroke-width:0.751181"
+         x="150.74634"
+         y="234.42776"
+         id="tspan1573">Your</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72px;font-family:Gotham;-inkscape-font-specification:'Gotham weight=425';fill:#e6e6e6;stroke-width:0.751181"
+         x="150.74634"
+         y="324.42776"
+         id="tspan1575">Story</tspan></text></g><g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="qr"><text
+       xml:space="preserve"
+       style="font-size:13px;font-family:Gotham;-inkscape-font-specification:Gotham;text-align:center;text-anchor:middle;fill:#004165;stroke:#ffffff;stroke-width:0.751177"
+       x="530.49176"
+       y="126.401"
+       id="text843"><tspan
+         sodipodi:role="line"
+         id="tspan841"
+         style="font-size:13px;fill:#666666;stroke-width:0.751181"
+         x="530.49176"
+         y="126.401">Scan Me</tspan></text><image
+       width="79.503677"
+       height="79.503677"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOYAAADmCAIAAABOCG7sAAAAA3NCSVQICAjb4U/gAAAGUUlEQVR4
+nO3dQVLcSBAFUNGYe5qT0FwEFrCD03ntCLyZxYTLM6SySxLf/d6akErdGURX/irVzfPz8/fv3xcI
+cTp6ALCOkiXM6ebm5ugxwAqnb9++HT0GWOF0d3d39BhghdPt7e3RY4AV/JclzOnHjx9HjwFWOP38
++fPoMcAK+rKEUbKEUbKEkX4RRvpFGH1Zwki/COO/LGGkX4SRfhFGX5YwSpYwSpYw0i/CSL8Ioy9L
+GOkXYfyXJcwm6df5fL45zvl8njLm8TqznmvWCCtXTvwu/p/0izD6soRRsoRRsoSRfhFmp/Tr4eHh
+YxsPDw+f3r3SDag4n8+Nu48eHx8bs+9lWabc/djv4nL6soSRfhHGf1nC2PtFGOkXYQ7ry/ay71kz
+/T9m8ZW/+W08j4+Pv/3NOB8f59G9OXtvzMXPZ7fv4nKiBMIoWcJIvwhj7xdhlCxhrqJkt5sRj3P/
+ZVk+7SpURtjbX3DULH5P0i/CSL8II/0ijL4sYZQsYa6iZCu7Cca5f3sdwqf3GnclLMOOg2uY+/dI
+vwhzFX1Z/iZKljBKljDSL8Icln6NM+uKWavue7l/L9OvPGllRcEy6T0GvRHO+i4uJ/0izFX0Zfmb
+KFnCKFnCSL8Is1Nftveuv4rK3H9U2U2wtGbovf0Fe86+v9p3sZYogTBKljDSL8LY+0UY6Rdpnp+f
+G/lyuu1OGajsd5j1N9dJlEAYJUsY6Rdh9GUJo2RJ8/7+Pn1Ot90pe5WZ9XZX3vNcwt699uxXHNXT
+kH4RRvpFGOkXYfRlCaNkSbPPGoPeDHR07Jx9u+5EZTx72q5fcTnpF2FECYRRsoRRsoSRfpHm5eVl
++pxu1JtLHrtWYc8RfuUZ+lcj/SKMKIEwSpYwSpYw0i/SvL6+Tp/TzZp9f7V5dG8VxKy1E9tdJ2xX
+giiBLEqWMNIvwtj7RRjpF2E26cuOp/Utw0kEs85J7L2xf9bJib0zF0aVz2f8VHsrHMbrVJ50PGFh
+fK59TnwQJRBGyRJG+kUYfVnCKFnSbPHmw1m2y/Qr19nzubZ7Z0LlSb/+6o5/k34RRvpFGOkXYfRl
+CaNkCXP6+PiYftFKgl9RWS1Qyb4rc9vxOhWVVH38NCrPNZq142AprIIY/6by7L3VC2tJvwijyUUY
+6RdhTre3t0ePAVbww4Awm6RflfXz273Z4I8z2SldhfHuvXtV1g9UZt+Ve83acTBaJu00WUv6RRhR
+AmGULGGULGGkX4TZqclVebPBaGll37Ou01sJUJzpN2bfs/oDo8o6hMqnulPHQPpFFukXYaRfhLH3
+izDSL9I8PT39Z4rctedJhXvuuJ81wmPfUTDrOkedniBKIIySJYz0izCaXISRfpHm7e1t+pxuuz0I
+x55vWBnzdrb7NPY8+/JyfhgQRvpFGOkXYfRlCaNkCXNYyVbW2C/D2vhxp0Dl3QKjyjr8yr6Aynhm
+qexuGFU+w/E9BrN2UmxB+kUYTS7CSL8IY+8XYfwwIExY+tWb6Vf03vPfewNApRfRO4Vh1HsbQ+Ve
+vc7D5aRfhBElEEbJEkbJEkb6RZrX19dVSXei7XYlzBrPse8N2PO9CpeTfhFG+kUY6RdhwtIvkH4R
+ZpO+bCX73k5vbUAl9+/dq3fGQWUXQGX9QG/1QkXvpMvLiRIIo2QJI/0ijCYXYaRfhNkp/douwa/k
+472zHXvvTOi9n2G7NwDM2m0xGp+i11FZyw8Dwki/CCP9Ioy+LGGULGmOOl3x2FP/evbse2x32mPv
+Sb/Ozg7pF2E0uQgj/SKMvV+E8cOAMNKvf8xK1Xs5e2UlwKyTGirdifFJKzsgvPkQ/kCUQBglSxgl
+SxjpF2GutMnVPl3x09n3aJxH98zaJVE546B3wkLvpMu1pF+EkX4R5kp/GJBL+kUY6RdhDuvLjrPv
+iu32+xfH3JjF9/RWAvS6HMfu9VhLlEAYJUsY6RdhRAmEUbKE2alkZ+Xso14aPo5nKZxfMKrM4nvG
+8YxXrvxN5SkqawxmfWKXk34RRvpFGOkXYfRlCaNkCXPz9PR0f39/9DCgSvpFGFECYZQsYZQsYaRf
+hJF+EUb6RRhRAmGULGGULGGkX4TRlyWMkiWMkiWM9Isw0i/CSL8Ioy9LGCVLGCVLGOkXYfRlCaNk
+CaNkCSP9Ioz0izDSL8L8AsDTPBbj0kddAAAAAElFTkSuQmCC
+"
+       id="image777"
+       x="490.61639"
+       y="35.236057" /></g><g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Footer"><text
+       xml:space="preserve"
+       style="font-size:13px;font-family:Gotham;-inkscape-font-specification:Gotham;text-align:center;text-anchor:middle;fill:#666666;stroke:#ffffff;stroke-width:0.751177"
+       x="301.35675"
+       y="404.30304"
+       id="text1011"><tspan
+         sodipodi:role="line"
+         id="tspan1009"
+         style="stroke-width:0.751181"
+         x="301.35675"
+         y="404.30304">https://www.eastgalwayspeakers.com/</tspan></text></g><g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Header"><text
+       xml:space="preserve"
+       style="font-size:13px;font-family:Gotham;-inkscape-font-specification:Gotham;text-align:center;text-anchor:middle;fill:#666666;stroke:#ffffff;stroke-width:0.751177"
+       x="302.22125"
+       y="30.109726"
+       id="text951"><tspan
+         sodipodi:role="line"
+         id="tspan949"
+         style="fill:#666666;stroke-width:0.751181"
+         x="302.22125"
+         y="30.109726">East Galway Speakers</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#666666;stroke-width:0.751181"
+         x="302.22125"
+         y="46.359726"
+         id="tspan955">A Member of Toastmasters International</tspan></text></g><g
+     class="common Bleed"
+     id="Bleed"
+     style="display:none"><path
+       d="M 0,0 H 603.77955 V 428.03151 H 0 Z"
+       fill="#ffffff"
+       fill-opacity="0"
+       stroke="#e61937"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       id="path167" /></g><g
+     class="common Trim"
+     id="Trim"
+     style="display:none"><path
+       d="M 4.2519686,4.2519686 H 599.52758 V 423.77954 H 4.2519686 Z"
+       fill="#ffffff"
+       fill-opacity="0"
+       stroke="#1d44b8"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       id="path170" /></g><g
+     class="common Safety"
+     id="Safety"
+     style="display:none"><path
+       d="M 8.5039373,8.5039373 H 595.27561 V 419.52757 H 8.5039373 Z"
+       fill="#ffffff"
+       fill-opacity="0"
+       stroke="#19ff00"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       id="path173" /></g><style
+     type="text/css"
+     id="style176">.common {fill:none;stroke-width:2.8346457600000003} .bleed {stroke:#E61937;} .trim {stroke:#1D44B8;} .safe {stroke:#17E600;} .ornament {stroke: #000000;}  .cut {stroke: #0045AD} .fold {stroke: #CC21A1;}</style></svg>
